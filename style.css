@@ -1,0 +1,70 @@
+
+/* Basic page styling */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f5f8;
+    margin: 0;
+    padding: 0;
+}
+
+/* Main container */
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+/* Heading */
+
+h1 {
+    color: #102a42;
+}
+
+/* Review box */
+
+.review-box {
+    background-color: white;
+    width: 350px;
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+/* Customer name */
+
+h2 {
+    color: #49a6e9;
+}
+
+/* Customer job */
+
+h4 {
+    color: #617d98;
+}
+
+/* Review text */
+
+p {
+    color: #617d98;
+    line-height: 1.6;
+}
+
+/* Buttons */
+
+button {
+    background-color: #49a6e9;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Button hover */
+
+button:hover {
+    background-color: #2176ae;
+}
